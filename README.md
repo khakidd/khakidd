@@ -98,25 +98,24 @@
   and Front-End Development.
 </p>
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/khakidd/Website-Profile-Dusun-Gatak">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khakidd&repo=Website-Profile-Dusun-Gatak&theme=tokyonight&hide_border=true" width="400" alt="Website Profile Dusun Gatak" />
+  </a>
+  <a href="https://github.com/khakidd/Perpustakaan-Digital-BookHouse">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khakidd&repo=Perpustakaan-Digital-BookHouse&theme=tokyonight&hide_border=true" width="400" alt="BookHouse Digital Library" />
+  </a>
+</p>
 
-<a href="https://github.com/khakidd/Website-Profile-Dusun-Gatak">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khakidd&repo=Website-Profile-Dusun-Gatak&theme=tokyonight&hide_border=true" />
-</a>
+<p align="center">
+  <a href="https://github.com/khakidd/Portofolio-Website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khakidd&repo=Portofolio-Website&theme=tokyonight&hide_border=true" width="400" alt="Portfolio Website" />
+  </a>
+  <a href="https://github.com/khakidd/user-dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khakidd&repo=user-dashboard&theme=tokyonight&hide_border=true" width="400" alt="User Dashboard" />
+  </a>
+</p>
 
-<a href="https://github.com/khakidd/Perpustakaan-Digital-BookHouse">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khakidd&repo=Perpustakaan-Digital-BookHouse&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/khakidd/Portofolio-Website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khakidd&repo=Portofolio-Website&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/khakidd/user-dashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khakidd&repo=user-dashboard&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
 
 
 <!-- CURRENT FOCUS -->
