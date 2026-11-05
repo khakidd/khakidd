@@ -95,10 +95,10 @@
 
 <div align="center">
   <a href="https://github.com/khakidd/Website-Profile-Dusun-Gatak">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khakidd&repo=REPOSITORY-1&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khakidd&repo=Website-Profile-Dusun-Gatak&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/khakidd/Perpustakaan-Digital-BookHouse">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khakidd&repo=REPOSITORY-2&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khakidd&repo=Perpustakaan-Digital-BookHouse&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
@@ -119,6 +119,6 @@
 
 **Thanks for visiting my profile! Let's connect and build something great.**
 
-<img src="https://komarev.com/ghpvc/?username=USERNAME&style=flat-square&color=007ACC&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=khakidd&style=flat-square&color=007ACC&label=PROFILE+VIEWS" />
 
 </div>
