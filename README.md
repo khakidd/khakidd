@@ -82,9 +82,8 @@
 <!-- ACTIVITY GRAPH -->
 <h2 align="center">📈 Contribution Activity</h2>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khakidd&theme=tokyo-night&hide_border=true" width="100%" />
-</div>
+<!-- BEGIN ACTIVITY-GRAPH -->
+<!-- END ACTIVITY-GRAPH -->
 
 <!-- FEATURED PROJECTS -->
 <h2 align="center">🚀 Featured Projects</h2>
