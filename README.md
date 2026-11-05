@@ -94,25 +94,63 @@
   and Front-End Development.
 </p>
 
+<table align="center">
+<tr>
+<td width="50%">
+<h3 align="center">Website Profile Dusun Gatak</h3>
 <p align="center">
-  <a href="https://github.com/khakidd/Website-Profile-Dusun-Gatak">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khakidd&repo=Website-Profile-Dusun-Gatak&theme=tokyonight&hide_border=true" width="400" alt="Website Profile Dusun Gatak" />
-  </a>
-  <a href="https://github.com/khakidd/Perpustakaan-Digital-BookHouse">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khakidd&repo=Perpustakaan-Digital-BookHouse&theme=tokyonight&hide_border=true" width="400" alt="BookHouse Digital Library" />
-  </a>
+<a href="https://github.com/khakidd/Website-Profile-Dusun-Gatak">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github" />
+</a>
 </p>
-
 <p align="center">
-  <a href="https://github.com/khakidd/Portofolio-Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khakidd&repo=Portofolio-Website&theme=tokyonight&hide_border=true" width="400" alt="Portfolio Website" />
-  </a>
-  <a href="https://github.com/khakidd/user-dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khakidd&repo=user-dashboard&theme=tokyonight&hide_border=true" width="400" alt="User Dashboard" />
-  </a>
+Website informasi dusun yang menyediakan profil wilayah,
+berita, galeri kegiatan, dan infografis.
 </p>
+</td>
 
+<td width="50%">
+<h3 align="center">BookHouse Digital Library</h3>
+<p align="center">
+<a href="https://github.com/khakidd/Perpustakaan-Digital-BookHouse">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github" />
+</a>
+</p>
+<p align="center">
+Aplikasi perpustakaan digital untuk pengelolaan
+koleksi dan informasi buku.
+</p>
+</td>
+</tr>
 
+<tr>
+<td width="50%">
+<h3 align="center">Portfolio Website</h3>
+<p align="center">
+<a href="https://github.com/khakidd/Portofolio-Website">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github" />
+</a>
+</p>
+<p align="center">
+Personal portfolio website to showcase skills,
+experience, and development projects.
+</p>
+</td>
+
+<td width="50%">
+<h3 align="center">User Dashboard</h3>
+<p align="center">
+<a href="https://github.com/khakidd/user-dashboard">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github" />
+</a>
+</p>
+<p align="center">
+Dashboard interface for presenting user information
+and application data.
+</p>
+</td>
+</tr>
+</table>
 
 <!-- CURRENT FOCUS -->
 <h2 align="center">🎯 Current Focus</h2>
