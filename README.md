@@ -75,30 +75,30 @@
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=khakidd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khakidd&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=khakidd&theme=tokyonight&hide_border=true" />
 </div>
 
 <!-- ACTIVITY GRAPH -->
 <h2 align="center">📈 Contribution Activity</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khakidd&theme=tokyo-night&hide_border=true" width="100%" />
 </div>
 
 <!-- FEATURED PROJECTS -->
 <h2 align="center">🚀 Featured Projects</h2>
 
 <div align="center">
-  <a href="https://github.com/USERNAME/REPOSITORY-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPOSITORY-1&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/khakidd/Website-Profile-Dusun-Gatak">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khakidd&repo=REPOSITORY-1&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/USERNAME/REPOSITORY-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPOSITORY-2&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/khakidd/Perpustakaan-Digital-BookHouse">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khakidd&repo=REPOSITORY-2&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
