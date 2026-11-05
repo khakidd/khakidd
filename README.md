@@ -83,6 +83,10 @@
 <h2 align="center">📈 Contribution Activity</h2>
 
 <!-- BEGIN ACTIVITY-GRAPH -->
+<picture>
+  <source media="(max-width: 767px)" srcset="activity-graph-mobile.svg">
+  <img src="activity-graph.svg" alt="Activity Graph" width="100%">
+</picture>
 <!-- END ACTIVITY-GRAPH -->
 
 <!-- FEATURED PROJECTS -->
