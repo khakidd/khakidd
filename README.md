@@ -74,14 +74,10 @@
 <!-- GITHUB STATS -->
 <h2 align="center">📊 GitHub Statistics</h2>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=khakidd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khakidd&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=khakidd&theme=tokyonight&hide_border=true" />
-</div>
+<p align="center">
+  <img src="./profile/stats.svg" width="49%" alt="GitHub Statistics" />
+  <img src="./profile/top-langs.svg" width="49%" alt="Top Languages" />
+</p>
 
 <!-- ACTIVITY GRAPH -->
 <h2 align="center">📈 Contribution Activity</h2>
