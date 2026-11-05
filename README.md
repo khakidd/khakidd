@@ -68,7 +68,7 @@
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/khakidd/khakidd/output/github-snake-dark.svg" width="100%" />
 </div>
 
 <!-- GITHUB STATS -->
