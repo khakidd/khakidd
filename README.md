@@ -93,14 +93,31 @@
 <!-- FEATURED PROJECTS -->
 <h2 align="center">🚀 Featured Projects</h2>
 
+<p align="center">
+  A collection of my projects in Web Development
+  and Front-End Development.
+</p>
+
 <div align="center">
-  <a href="https://github.com/khakidd/Website-Profile-Dusun-Gatak">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khakidd&repo=Website-Profile-Dusun-Gatak&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/khakidd/Perpustakaan-Digital-BookHouse">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khakidd&repo=Perpustakaan-Digital-BookHouse&theme=tokyonight&hide_border=true" />
-  </a>
+
+<a href="https://github.com/khakidd/Website-Profile-Dusun-Gatak">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khakidd&repo=Website-Profile-Dusun-Gatak&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/khakidd/Perpustakaan-Digital-BookHouse">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khakidd&repo=Perpustakaan-Digital-BookHouse&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/khakidd/Portofolio-Website">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khakidd&repo=Portofolio-Website&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/khakidd/user-dashboard">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khakidd&repo=user-dashboard&theme=tokyonight&hide_border=true" />
+</a>
+
 </div>
+
 
 <!-- CURRENT FOCUS -->
 <h2 align="center">🎯 Current Focus</h2>
