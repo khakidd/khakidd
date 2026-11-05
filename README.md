@@ -10,11 +10,7 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-  I'm an Informatics student with a strong interest in
-  <b>Web Development and Front-End Development</b>.
-  <br/>
-  I enjoy building responsive, functional, and user-friendly
-  websites while continuously learning new technologies.
+  Hello! My name is <b>Muhammad Rakharsya Fatra Subulana</b>, and you can call me <b>Rakha</b>. I am a final-year Informatics student at Ahmad Dahlan University (Class of 2023, currently in my 7th semester). I have hands-on experience in web development using <b>PHP</b>, <b>JavaScript</b>, and <b>Laravel</b>, with a solid foundation in C++. I am actively involved in student organizations and event committees, which have honed my teamwork, communication, problem-solving, and time management skills. I am adaptable, a hard worker, and eager to grow my technical and organizational skills in a professional software development environment.
 </p>
 
 - 🎓 Informatics Student
